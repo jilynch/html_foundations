@@ -2,12 +2,12 @@
 
 Learn the foundations of HTML, a fundamental building block of everything on the web.
 
-1. Introduction to HTML and CSS
-2. Elements and Tags
-3. HTML Boilerplate
-4. Working with Text
-5. Lists
-6. Links and Images
+1. [Introduction to HTML and CSS](#introduction-to-html-and-css)
+2. [Elements and Tags](#elements-and-tags)
+3. [HTML Boilerplate](#html-boilerplate)
+4. [Working with Text](#working-with-text)
+5. [Lists](#lists)
+6. [Links and Images](#links-and-images)
 7. Project: Recipes
 
 ## Elements and Tags
